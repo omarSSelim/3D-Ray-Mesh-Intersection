@@ -35,3 +35,5 @@ s1 = (u.v)(w.v) - (v.v)(w.u)/D
 t1 = (u.v)(w.u) - (u.u)(w.v)/D
 
 13- finally we have a final answer which is vector3 of point I which intersects with the triangle  
+
+
